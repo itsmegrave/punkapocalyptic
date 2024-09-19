@@ -1,0 +1,54 @@
+{
+  "id": "punkapocalyptic",
+  "title": "Punkapocalyptic",
+  "description": "The Punkapocalyptic system for Foundry VTT",
+  "authors": [
+    {
+      "name": "itsmegrave",
+      "discord": "itsmegrave"
+    }
+  ],
+  "url": "This is auto replaced",
+  "license": "<please choose an appropriate license. https://choosealicense.com/ is a great place to get more information if you are unsure>",
+  "readme": "https://github.com/itsmegrave/punkapocalyptic/README.md",
+  "bugs": "https://github.com/itsmegrave/punkapocalyptic/issues",
+  "version": "This is auto replaced",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "scripts": [],
+  "esmodules": [
+    "module/punkapocalyptic.js"
+  ],
+  "styles": [
+    "styles/punkapocalyptic.css"
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Portuguese (Brazilian)",
+      "path": "lang/pt-BR.json"
+    }
+  ],
+  "relationships": {
+    "requires": [],
+    "conflicts": []
+  },
+  "grid": {
+    "gridDistance": 1,
+    "gridUnits": "yd"
+  },
+  "socket": false,
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "background": "<optionally a relative filepath to a background image to use for worlds created with this system>",
+  "primaryTokenAttribute": "<optionally the attribute to use as primary resource in tokens by default>",
+  "secondaryTokenAttribute": "<optionally the attribute to use as secondary resource in tokens by default>"
+}
